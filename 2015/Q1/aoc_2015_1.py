@@ -16,4 +16,4 @@ for line in input_lines:
         char_pos += 1  # only needed for part 2
 
 # print(f"The answer is {floor}")
-print(f"The answer to part 2 is {char_poss}")
+print(f"The answer to part 2 is {char_pos}")
