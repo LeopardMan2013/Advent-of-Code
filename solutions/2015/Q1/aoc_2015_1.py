@@ -1,5 +1,5 @@
 with open(
-    "/Users/hamish.macdonald/Dev/Jack/Advent-of-Code/2015/Q1/input.txt", "r"
+    "/Users/jackmacdonald/Dev/Advent-of-Code/input/2015/day1/day1_full_input.txt", "r"
 ) as input_f:
     input_lines = input_f.readlines()
 
